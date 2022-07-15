@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing](https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing)
 
-- ⚡ Fun fact **I love to code & learn**
+- ⚡ Fun fact **I love to code & learn **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
