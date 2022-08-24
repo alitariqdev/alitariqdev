@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing](https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing)
 
 - ⚡ Fun fact **I love to code & learn **
-
+mn
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alitariq12369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alitariq12369" height="30" width="40" /></a>
