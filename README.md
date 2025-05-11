@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Tariq</h1>
-<h3 align="center">A passionate full stack web developer from Pakistan</h3>
+<h3 align="center">AI/ML Enthusiast & Aspiring Researcher from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alitariq12369&label=Profile%20views&color=0e75b6&style=flat" alt="alitariq12369" /> </p>
 
