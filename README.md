@@ -4,13 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alitariq12369&label=Profile%20views&color=0e75b6&style=flat" alt="alitariq12369" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/alitariq12369" target="blank"><img src="https://img.shields.io/twitter/follow/alitariq12369?logo=twitter&style=for-the-badge" alt="alitariq12369" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Leetcode & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [www.github.com/alitariq12369](www.github.com/alitariq12369)
+- 👨‍💻 All of my projects are available at [www.github.com/alitariqdev](www.github.com/alitariqdev)
 
-- 💬 Ask me about **React, ASP.NET**
+- 💬 Ask me about **Python, Flask, Microservices, Leetcode**
 
 - 📫 How to reach me **alitariqdev@gmail.com**
 
@@ -21,7 +20,7 @@ mn
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alitariq12369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alitariq12369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alitariq-12369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alitariq-12369" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alitariq-12369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alitariqdev" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
