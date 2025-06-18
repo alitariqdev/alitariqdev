@@ -16,7 +16,7 @@
 - 🔬 Passionate about AI/ML, Computer Vision, Deep Learning, and Research
 - 💻 Actively working with **Python, Flask, Microservices, React, and Firebase**
 - 🌱 Currently exploring **Leetcode**, **Deep Learning**, and **Research-based AI projects**
-- 🧠 Active Participant of international hackathons, webinars, and international competitions like  Meta Hacker Cup By META and CS50X Puzzle Day by Harvard.
+- 🧠 Active Participant of international hackathons, webinars, and international competitions (Hackathons Profile)[https://lablab.ai/u/@alitarqidev]
 - 🎯 Aiming for fully funded ***MS/PhD opportunities***
 
 ---
