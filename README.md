@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alitariqdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing](https://drive.google.com/file/d/1oNTEMK5oAOuaZG8b7uZDRA5KX9kyddRM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PfZgyHM8vByY3ORziWABD2YURvxPh7Zy/view?usp=sharing)
 
 - ⚡ Fun fact **I love to code & learn **
 mn
