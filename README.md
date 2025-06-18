@@ -10,6 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 CS Graduate | Full Stack Engineer | Moderator/Trainer  @iCodeGuru | Aspiring AI/ML Researcher
+- 🧑‍🏫 Trained and Moderated python & DSA sessions for 50+ hours and 100's of studnets
 - </> Solved 150+ Leetcode Questions 
 - 🔬 Passionate about AI/ML, Computer Vision, Deep Learning, and Research
 - 💻 Actively working with **Python, Flask, Microservices, React, and Firebase**
