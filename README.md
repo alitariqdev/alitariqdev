@@ -55,12 +55,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitariqdev&layout=compact&theme=default" alt="Top Languages" />
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alitariqdev&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitariqdev&theme=default" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
