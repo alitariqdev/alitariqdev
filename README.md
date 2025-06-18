@@ -11,7 +11,7 @@
 
 - 🎓 CS Graduate | Full Stack Engineer | Moderator/Trainer  @iCodeGuru | Aspiring AI/ML Researcher
 - 🧑‍🏫 Trained and Moderated python & DSA sessions for 50+ hours and 100's of studnets
-- Harvard CS50X Puzzle Day Winner Successfully solved 9/9 puzzles [View Certificate](https://certificates.cs50.io/ea693359-4a14-4f35-8f14-a346d63c7ee6.pdf?size=letter)
+- 🧩 Harvard CS50X Puzzle Day Winner Successfully solved 9/9 puzzles [View Certificate](https://certificates.cs50.io/ea693359-4a14-4f35-8f14-a346d63c7ee6.pdf?size=letter)
 - </> Solved 150+ Leetcode Questions [Leetcode Profile](https://leetcode.com/alitariqdev)
 - 🔬 Passionate about AI/ML, Computer Vision, Deep Learning, and Research
 - 💻 Actively working with **Python, Flask, Microservices, React, and Firebase**
