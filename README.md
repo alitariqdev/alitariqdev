@@ -9,7 +9,8 @@
 
 ### 🚀 About Me
 
-- 🎓 CS Graduate | Full Stack Engineer | Moderator/Trainer  @iCodeGuru | Aspiring AI/ML Researcher 
+- 🎓 CS Graduate | Full Stack Engineer | Moderator/Trainer  @iCodeGuru | Aspiring AI/ML Researcher
+- </> Solved 150+ Leetcode Questions 
 - 🔬 Passionate about AI/ML, Computer Vision, Deep Learning, and Research
 - 💻 Actively working with **Python, Flask, Microservices, React, and Firebase**
 - 🌱 Currently exploring **Leetcode**, **Deep Learning**, and **Research-based AI projects**
@@ -26,7 +27,7 @@
 - 🌐 [GitHub Portfolio](https://github.com/alitariqdev)
 - 📄 [Resume](https://drive.google.com/file/d/1PfZgyHM8vByY3ORziWABD2YURvxPh7Zy/view)
 - 🌐 [Personal Webiste](https://alitariq.netlify.app)
-
+- </> [Leetcode](https://leetcode.com/alitariqdev) 
 ---
 
 ### 🛠️ Languages & Tools
